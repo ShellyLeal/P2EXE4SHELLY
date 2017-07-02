@@ -1,4 +1,4 @@
-package ita.P2EXE4SHELLY;
+package ita.p2exe4shelly;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
